@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Reynard Wistara Huga Wijaya 2702234024
+//Ananda Samudra Maha Putra_2702260552
 int main()
 {
 	char name[101];
