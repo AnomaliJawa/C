@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Reynard Wistara Huga Wijaya_2702234024
+//Ananda Samudra Maha Putra_2702260552
 int main()
 {
 	char code[101];
