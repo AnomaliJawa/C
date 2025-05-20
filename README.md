@@ -7,12 +7,11 @@ This repository contains a collection of weekly assignments and exercises writte
 ## 📁 Folder Structure
 
 C/
-├── W2/ # Week 2 assignments
-├── W3/ # Week 3 assignments
-├── W4/ # Week 4 assignments
-├── W5/ # Week 5 assignments
-└── W6/ # Week 6 assignments
-
+├── W2/   # Week 2 assignments
+├── W3/   # Week 3 assignments
+├── W4/   # Week 4 assignments
+├── W5/   # Week 5 assignments
+└── W6/   # Week 6 assignments
 
 Each directory contains:
 - `.c` source code files
