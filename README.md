@@ -29,3 +29,21 @@ You need to have a C compiler such as `gcc` installed on your system.
 cd W2  # or W3, W4, etc.
 make
 ./output_name
+
+### 🔹 Option 2: Manual Compilation
+
+```bash
+cd W3
+gcc -o program program.c
+./program
+
+
+### Penjelasan:
+
+- Gunakan tiga backticks (` ``` `) sebelum dan sesudah blok kode.
+- Tambahkan penanda bahasa (`bash`) agar GitHub bisa melakukan syntax highlighting otomatis.
+- Hindari menulis kata "Copy" atau "Edit" jika tidak menggunakan fitur HTML atau komponen UI khusus.
+
+Jika kamu punya beberapa file `.c` dalam satu folder dan ingin kompilasi semuanya, kamu juga bisa pakai:
+```bash
+gcc -o program *.c
